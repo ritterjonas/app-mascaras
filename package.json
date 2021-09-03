@@ -18,7 +18,7 @@
     "@react-native-firebase/storage": "6.4.0",
     "@react-navigation/native": "^5.1.5",
     "axios": "^0.19.2",
-    "immer": "^6.0.3",
+    "immer": "^9.0.6",
     "moment": "^2.25.3",
     "prop-types": "^15.7.2",
     "react": "16.11.0",
